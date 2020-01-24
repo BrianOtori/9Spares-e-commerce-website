@@ -1,0 +1,63 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 24 Jan 2020 18:34:31 at http://localhost/9Spares/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/9Spares/ -O1 "C:\Users\BRYO\Desktop\9Spares" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:37:37	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 667): localhost/9Spares/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.9.0
+18:49:10	Warning: 	Moved Permanently for localhost/9Spares/?page_id=3&preview=true
+18:49:10	Warning: 	File has moved from localhost/9Spares/?page_id=3&preview=true to http://localhost/9Spares/?page_id=3
+18:50:26	Warning: 	Moved Permanently for localhost/9Spares/?p=552
+18:50:26	Warning: 	File has moved from localhost/9Spares/?p=552 to http://localhost/9Spares/store/
+19:00:43	Warning: 	Moved Permanently for localhost/9Spares/?p=551
+19:00:43	Warning: 	File has moved from localhost/9Spares/?p=551 to http://localhost/9Spares/about-us/
+19:01:20	Warning: 	Moved Permanently for localhost/9Spares/?p=12
+19:01:20	Warning: 	File has moved from localhost/9Spares/?p=12 to http://localhost/9Spares/contact-us/
+19:01:21	Warning: 	Moved Permanently for localhost/9Spares/?p=549
+19:01:21	Warning: 	File has moved from localhost/9Spares/?p=549 to http://localhost/9Spares/my-account/
+19:01:28	Warning: 	Moved Permanently for localhost/9Spares/?p=547
+19:01:28	Warning: 	File has moved from localhost/9Spares/?p=547 to http://localhost/9Spares/cart/
+19:01:29	Warning: 	Moved Permanently for localhost/9Spares/?p=668
+19:01:29	Warning: 	File has moved from localhost/9Spares/?p=668 to http://localhost/9Spares/product/car-gps-navigation-system/
+19:01:29	Error: 	"Not Found" (404) at link localhost/9Spares/?page_id=3 (from localhost/9Spares/?page_id=3&preview=true)
+19:01:39	Warning: 	Moved Permanently for localhost/9Spares/?p=84
+19:01:39	Warning: 	File has moved from localhost/9Spares/?p=84 to http://localhost/9Spares/product/wheel-rims/
+19:01:39	Warning: 	Moved Permanently for localhost/9Spares/?p=83
+19:01:39	Warning: 	File has moved from localhost/9Spares/?p=83 to http://localhost/9Spares/product/gear-shift/
+19:01:39	Warning: 	Moved Permanently for localhost/9Spares/?p=80
+19:01:39	Warning: 	File has moved from localhost/9Spares/?p=80 to http://localhost/9Spares/product/t003/
+19:01:39	Warning: 	Moved Permanently for localhost/9Spares/?p=53
+19:01:39	Warning: 	File has moved from localhost/9Spares/?p=53 to http://localhost/9Spares/product/front-control-arm/
+19:01:39	Warning: 	Moved Permanently for localhost/9Spares/?p=664
+19:01:39	Warning: 	File has moved from localhost/9Spares/?p=664 to http://localhost/9Spares/product/bmw-bare-engine/
+19:01:39	Warning: 	Moved Permanently for localhost/9Spares/?p=666
+19:01:39	Warning: 	File has moved from localhost/9Spares/?p=666 to http://localhost/9Spares/product/crankshaft-pulley/
+19:01:39	Warning: 	Moved Permanently for localhost/9Spares/?p=665
+19:01:39	Warning: 	File has moved from localhost/9Spares/?p=665 to http://localhost/9Spares/product/car-modified-front-bumber-lip/
+19:01:39	Warning: 	Moved Permanently for localhost/9Spares/?p=82
+19:01:39	Warning: 	File has moved from localhost/9Spares/?p=82 to http://localhost/9Spares/product/excavator-foot-pedal/
+19:01:39	Warning: 	Moved Permanently for localhost/9Spares/?p=86
+19:01:39	Warning: 	File has moved from localhost/9Spares/?p=86 to http://localhost/9Spares/product/e-class-headlight/
+19:01:39	Warning: 	Moved Permanently for localhost/9Spares/?p=45
+19:01:39	Warning: 	File has moved from localhost/9Spares/?p=45 to http://localhost/9Spares/product/bumber-guard/
+19:01:39	Warning: 	Moved Permanently for localhost/9Spares/?p=51
+19:01:39	Warning: 	File has moved from localhost/9Spares/?p=51 to http://localhost/9Spares/product/alternator/
+19:01:40	Warning: 	Moved Permanently for localhost/9Spares/?p=52
+19:01:40	Warning: 	File has moved from localhost/9Spares/?p=52 to http://localhost/9Spares/product/cylinder-head/
+19:01:40	Warning: 	Moved Permanently for localhost/9Spares/?p=85
+19:01:40	Warning: 	File has moved from localhost/9Spares/?p=85 to http://localhost/9Spares/product/sprinter-seat/
+19:01:41	Warning: 	Moved Permanently for localhost/9Spares/?p=87
+19:01:41	Warning: 	File has moved from localhost/9Spares/?p=87 to http://localhost/9Spares/product/charging-cable/
+19:01:41	Warning: 	Moved Permanently for localhost/9Spares/?p=667
+19:01:41	Warning: 	File has moved from localhost/9Spares/?p=667 to http://localhost/9Spares/product/radiator-cooling-fan/
+19:01:41	Warning: 	Moved Permanently for localhost/9Spares/?p=81
+19:01:41	Warning: 	File has moved from localhost/9Spares/?p=81 to http://localhost/9Spares/product/fork-lift/
+19:01:41	Warning: 	Moved Permanently for localhost/9Spares/?p=662
+19:01:41	Warning: 	File has moved from localhost/9Spares/?p=662 to http://localhost/9Spares/product/water-hose/
+19:01:56	Warning: 	Moved Permanently for localhost/9Spares/?p=751
+19:01:56	Warning: 	File has moved from localhost/9Spares/?p=751 to http://localhost/9Spares/about/
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 minutes 25 seconds : 306 links scanned, 279 files written (17875386 bytes overall) [18037014 bytes received at 10964 bytes/sec], 1.4 requests per connection
+(1 errors, 51 warnings, 0 messages)
